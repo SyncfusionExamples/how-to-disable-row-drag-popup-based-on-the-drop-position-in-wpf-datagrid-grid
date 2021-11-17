@@ -24,6 +24,8 @@ private void OnRowDragDropController_DragOver(object sender, TreeGridRowDragOver
 
 ```
 
+KB article - [How to disable row drag popup based on the drop position in WPF TreeGrid(SfTreeGrid)?](https://www.syncfusion.com/kb/12506/how-to-disable-row-drag-popup-based-on-the-drop-position-in-wpf-treegridsftreegrid)
+
 ## Requirements to run the demo
 
 Visual Studio 2015 and above versions
